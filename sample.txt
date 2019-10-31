@@ -1,0 +1,8 @@
+Vancouver, 49, 13, 123, 06
+Calgary, 51, 1, 114, 1
+Edmonton, 53, 34, 113, 28
+Seattle, 47, 37, 122, 20
+Portland, 45, 31, 122, 41
+Los Angeles, 34, 3, 118, 15
+San Francisco, 37, 47, 122, 26
+Denver, 39, 45, 105, 0
